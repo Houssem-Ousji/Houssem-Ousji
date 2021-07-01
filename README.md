@@ -11,7 +11,7 @@
 [<img align="left" alt="Houssem Ousji | LinkedIn" width="28px" src="https://image.flaticon.com/icons/png/512/61/61109.png" />](https://www.linkedin.com/in/ousji-houssem-601532206/)
 
 <br />
-[<img align="left" alt="Houssem Ousji | LinkedIn" width="28px" src="https://image.flaticon.com/icons/png/512/95/95645.png" />]
+
  
 
 <br />
