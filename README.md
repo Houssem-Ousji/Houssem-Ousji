@@ -1,4 +1,4 @@
-### [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()Python Junior Developer / [<img alt="SQL" width="26px" src="https://image.flaticon.com/icons/png/128/841/841364.png" />]()Frontend Junior Developer
+### [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()Python Junior Developer / [<img alt="SQL" width="26px" src="https://image.flaticon.com/icons/png/128/841/841364.png" />]() Frontend Junior Developer
 
 - 🔭 I’m currently a computer science student and Freelancer
 - 🌱 I’m currently learning python and frontend Developement
