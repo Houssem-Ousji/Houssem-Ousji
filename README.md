@@ -10,13 +10,11 @@
 
 [<img align="left" alt="Houssem Ousji | Faacebook" width="28px" src="https://image.flaticon.com/icons/png/512/747/747374.png" />](https://www.facebook.com/houssem.ousji.3/)
 [<img align="left" alt="Houssem Ousji | LinkedIn" width="28px" src="https://image.flaticon.com/icons/png/512/61/61109.png" />](https://www.linkedin.com/in/ousji-houssem-601532206/)
-
+<br />
 ### Send Me Your email:
 [<img align="left" alt="Houssem Ousji | Gmail" width="28px" src="https://image.flaticon.com/icons/png/512/732/732026.png" />]()
 ousjihoussem01@gmail.com
 <br />
-
-
 ### Languages and Tools:
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
