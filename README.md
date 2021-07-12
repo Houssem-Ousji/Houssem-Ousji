@@ -9,15 +9,13 @@
 - ⚡ Fun fact: My friends tell me that i'm the lonely one but actually im not alone with my laptop
 
 ### follow Me on:
-
-[<img align="left" alt="Houssem Ousji | Faacebook" width="28px" src="https://image.flaticon.com/icons/png/512/747/747374.png" />](https://www.facebook.com/houssem.ousji.3/)
-[<img align="left" alt="Houssem Ousji | LinkedIn" width="28px" src="https://image.flaticon.com/icons/png/512/61/61109.png" />](https://www.linkedin.com/in/ousji-houssem-601532206/)
+[<img align="left" alt="Houssem Ousji | LinkedIn" width="35px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/ousji-houssem-601532206/)
 <br />
 ### Send Me Your email:
-[<img align="left" alt="Houssem Ousji | Gmail" width="28px" src="https://image.flaticon.com/icons/png/512/732/732026.png" />]()
+[<img align="left" alt="Houssem Ousji | Gmail" width="28px" src="https://image.flaticon.com/icons/png/512/888/888853.png" />]()
 ousjihoussem01@gmail.com
 <br />
-### Languages and Tools:
+### Tools:
 ![tools](https://user-images.githubusercontent.com/86334640/125228115-7e9b8e80-e2d4-11eb-9a1d-dfe0c0c08b15.png)
 
 <br />
