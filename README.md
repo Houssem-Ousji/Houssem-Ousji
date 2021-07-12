@@ -1,5 +1,7 @@
 ### [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()Python Junior Developer 
+![Untitled-2](https://user-images.githubusercontent.com/86334640/125223146-8f93d200-e2cb-11eb-8676-5a6fb851f12f.png)
 ### [<img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/png/128/841/841364.png" />]() Frontend Junior Developer
+![Untitled-3](https://user-images.githubusercontent.com/86334640/125225857-3f6b3e80-e2d0-11eb-868b-837447324d1f.png)
 
 - 🔭 I’m currently a computer science student and Freelancer
 - 🌱 I’m currently learning python and frontend Developement
@@ -16,12 +18,6 @@
 ousjihoussem01@gmail.com
 <br />
 ### Languages and Tools:
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-[<img align="left" alt="Bootstrap" width="26px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />]()
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
-[<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
-[<img align="left" alt="Qt Designer" width="26px" src="https://cdn.icon-icons.com/icons2/159/PNG/256/designer_qt4_qt_22418.png" />]()
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
 [<img align="left" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" />]()
 
