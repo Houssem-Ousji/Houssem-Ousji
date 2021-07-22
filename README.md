@@ -10,9 +10,9 @@
 - ⚡ Fun fact: My friends tell me that i'm the lonely one but actually im not alone with my laptop
 -->
 ### follow Me on My Linkedin Account: [<img align="left" alt="Houssem Ousji | LinkedIn" width="35px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/ousji-houssem-601532206/)
-
+<br />
 
 ### Send Me Your email: [<img align="left" alt="Houssem Ousji | Gmail" width="35px" src="https://image.flaticon.com/icons/png/512/888/888853.png" />]()ousjihoussem01@gmail.com
 
-<br />
+
 <br />
