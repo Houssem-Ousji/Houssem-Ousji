@@ -5,19 +5,17 @@ Hello, my name is Houssem. I am 21 years old living in Tunis, Tunisia.
 Currently I am Computer science student at [HIGHER INSTITUTE OF COMPUTING](http://www.isi.rnu.tn/) and Working as freelancer at [upwork](https://www.upwork.com/freelancers/~01f1404315d569d5be?viewMode=1)
 
 
-### [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()Junior Python Developer 
-<p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/86334640/125223146-8f93d200-e2cb-11eb-8676-5a6fb851f12f.png" />
-</p>
+## Python :
+  * [<img align="left" alt="Django" width="50px" src="https://eduscol.education.fr/bac-a-sable/contributeurs/django-logo-negative.png/@@images/image.png" />]()Web Developement with Django 
+  
+  
+  * [<img align="left" alt="QT" width="50px" src="https://user-images.githubusercontent.com/86334640/127401070-bb8f6c64-9e89-4dc0-bea8-070edd921c67.png" />]()Desktop Applications with Pyqt and QtDesign
+  
+  
+  * [<img align="left" alt="Selenium" width="50px" src="https://user-images.githubusercontent.com/86334640/127400876-3cb2990c-e2bb-4a1c-942c-15f3f59a0026.png" />]()Web Srapping with Selenium
 
-### [<img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/png/128/841/841364.png" />]()Junior Front End Developer
-<p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/86334640/125225857-3f6b3e80-e2d0-11eb-868b-837447324d1f.png" />
-</p>
+<br />
 
-<p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/86334640/125228115-7e9b8e80-e2d4-11eb-9a1d-dfe0c0c08b15.png" />
-</p>
 
 <!--
 - 🔭 I’m currently a computer science student and Freelancer
