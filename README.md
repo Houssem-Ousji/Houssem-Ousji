@@ -1,3 +1,10 @@
+# Junior Python & Front End Developer
+
+Hello, my name is Houssem. I am 21 years old living in Tunis, Tunisia.
+
+Currently I am Computer science student at [HIGHER INSTITUTE OF COMPUTING](http://www.isi.rnu.tn/) and Working as freelancer at [upwork](https://www.upwork.com/freelancers/~01f1404315d569d5be?viewMode=1)
+
+
 ### [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()Junior Python Developer 
 <p align="center">
   <img width="600" src="https://user-images.githubusercontent.com/86334640/125223146-8f93d200-e2cb-11eb-8676-5a6fb851f12f.png" />
