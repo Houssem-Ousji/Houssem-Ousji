@@ -6,13 +6,28 @@ Currently I am Computer science student at [HIGHER INSTITUTE OF COMPUTING](http:
 
 
 ## Python :
-  * [<img align="left" alt="Django" width="50px" src="https://eduscol.education.fr/bac-a-sable/contributeurs/django-logo-negative.png/@@images/image.png" />]()Web Developement with Django 
-  
-  
-  * [<img align="left" alt="QT" width="50px" src="https://user-images.githubusercontent.com/86334640/127401070-bb8f6c64-9e89-4dc0-bea8-070edd921c67.png" />]()Desktop Applications with Pyqt and QtDesign
-  
-  
-  * [<img align="left" alt="Selenium" width="50px" src="https://user-images.githubusercontent.com/86334640/127400876-3cb2990c-e2bb-4a1c-942c-15f3f59a0026.png" />]()Web Srapping with Selenium
+* [<img align="left" alt="Django" width="50px" src="https://eduscol.education.fr/bac-a-sable/contributeurs/django-logo-negative.png/@@images/image.png" />]()Web Developement with Django 
+
+<br />
+
+* [<img align="left" alt="Selenium" width="50px" src="https://user-images.githubusercontent.com/86334640/127400876-3cb2990c-e2bb-4a1c-942c-15f3f59a0026.png" />]()Web Srapping with Selenium
+
+<br/>
+
+* [<img align="left" alt="QT" width="50px" src="https://user-images.githubusercontent.com/86334640/127401070-bb8f6c64-9e89-4dc0-bea8-070edd921c67.png" />]()Desktop Applications with Pyqt and QtDesign
+
+<br />
+
+## Front End :
+* [<img align="left" alt="Django" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()HTML5
+
+<br />
+
+* [<img align="left" alt="Selenium" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()CSS3 (Framework : [<img  alt="Bootstrap" width="26px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />]()  [Bootsrap](https://getbootstrap.com/))
+
+<br/>
+
+* [<img align="left" alt="Selenium" width="50px" src="https://user-images.githubusercontent.com/86334640/125635046-a7e97a85-564a-4337-a5b8-c18f9cc0aedb.png" />]()Javascript (Framework : [<img  alt="reactjs" width="26px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />]()  [ReactJS](https://fr.reactjs.org/))
 
 <br />
 
