@@ -30,22 +30,11 @@ Currently I am Computer science student at [HIGHER INSTITUTE OF COMPUTING](http:
 <br/>
 
 * [<img align="left" alt="Selenium" width="50px" src="https://user-images.githubusercontent.com/86334640/127403785-c3e37211-3145-49c8-8f13-f17385b3ac8a.png" />]()Javascript ( Framework : [<img  alt="reactjs" width="26px" src="https://user-images.githubusercontent.com/86334640/127403040-4cc53854-3f2c-439c-a4fa-72e310ac9366.png" />]()  [ReactJS](https://fr.reactjs.org/) )
+<br />
 
+## Contact Me :
+* follow Me on My Linkedin Account: [<img align="left" alt="Houssem Ousji | LinkedIn" width="35px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/ousji-houssem-601532206/)
 
 <br />
 
-
-<!--
-- 🔭 I’m currently a computer science student and Freelancer
-- 🌱 I’m currently learning python and frontend Developement
-- 👯 I’m looking to contribute more and more
-- ⚡ Fun fact: My friends tell me that i'm the lonely one but actually im not alone with my laptop
--->
-### follow Me on My Linkedin Account: [<img align="left" alt="Houssem Ousji | LinkedIn" width="35px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/ousji-houssem-601532206/)
-<br />
-
-### Send Me Your email: [<img align="left" alt="Houssem Ousji | Gmail" width="35px" src="https://image.flaticon.com/icons/png/512/888/888853.png" />]()ousjihoussem01@gmail.com
-
-
-
-<br />
+* Send Me Your email: [<img align="left" alt="Houssem Ousji | Gmail" width="35px" src="https://image.flaticon.com/icons/png/512/888/888853.png" />]()ousjihoussem01@gmail.com
