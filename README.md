@@ -33,8 +33,8 @@ Currently I am Computer science student at [HIGHER INSTITUTE OF COMPUTING](http:
 <br />
 
 ## Contact Me :
-* follow Me on My Linkedin Account: [<img align="left" alt="Houssem Ousji | LinkedIn" width="35px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/ousji-houssem-601532206/)
+* follow Me on My Linkedin Account: [<img align="left" alt="Houssem Ousji | LinkedIn" width="35px" src="https://user-images.githubusercontent.com/86334640/159136901-079c3126-3cff-412f-87e4-0f79f37856d8.svg" />](https://www.linkedin.com/in/ousji-houssem-601532206/)
 
 <br />
 
-* Send Me Your email: [<img align="left" alt="Houssem Ousji | Gmail" width="35px" src="https://image.flaticon.com/icons/png/512/888/888853.png" />]()ousjihoussem01@gmail.com
+* Send Me Your email: [<img align="left" alt="Houssem Ousji | Gmail" width="35px" src="https://user-images.githubusercontent.com/86334640/159136960-909f8ba6-bb3a-4809-9939-dc96a403ed97.svg" />]()ousjihoussem01@gmail.com
