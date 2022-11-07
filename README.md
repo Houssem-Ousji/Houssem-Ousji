@@ -41,3 +41,8 @@ Currently I am Computer science student at [HIGHER INSTITUTE OF COMPUTING](http:
 <br />
 
 * Send Me Your email: [<img align="left" alt="Houssem Ousji | Gmail" width="35px" src="https://user-images.githubusercontent.com/86334640/159136960-909f8ba6-bb3a-4809-9939-dc96a403ed97.svg" />]()ousjihoussem01@gmail.com
+
+<br />
+
+* Check my resume [<img align="left" alt="resume" width="35px" src="https://user-images.githubusercontent.com/86334640/200282401-4c46fe33-9ef2-49f2-8f87-18081fa9c392.png" />](https://drive.google.com/file/d/1g1aOT5g5t4yDCa6K-4G6eWqnZOg4ZHCv/view?usp=sharing)
+
