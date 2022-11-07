@@ -1,12 +1,12 @@
 # Junior Python & Front End Developer
 
-Hello, my name is Houssem. I am 21 years old living in Tunis, Tunisia.
+Hello, my name is Houssem. I am 22 years old living in Tunis, Tunisia.
 
 Currently I am Computer science student at [HIGHER INSTITUTE OF COMPUTING](http://www.isi.rnu.tn/) and Working as freelancer at [upwork](https://www.upwork.com/freelancers/~01f1404315d569d5be?viewMode=1)
 
 
 ## Python :
-* [<img align="left" alt="Django" width="50px" src="https://eduscol.education.fr/bac-a-sable/contributeurs/django-logo-negative.png/@@images/image.png" />]()Web Developement with Django 
+* [<img align="left" alt="data" width="50px" src="https://user-images.githubusercontent.com/86334640/200278404-b8a96b9e-fd4b-4bb8-89f6-f53bb57fcbe4.png" />]()Data analysis || Numpy-Pandas-Matplotlib-opencv
 
 <br />
 
@@ -18,18 +18,21 @@ Currently I am Computer science student at [HIGHER INSTITUTE OF COMPUTING](http:
 
 <br />
 
-## Front End :
-* [<img align="left" alt="Django" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()HTML5
+## Mern Stack :
+* [<img align="left" alt="Mongodb" width="50px" src="https://user-images.githubusercontent.com/86334640/200281438-0f011eb6-0ff1-4736-b928-5ca717b8eb02.png" />]()MongoDB
 
 <br />
 
-* [<img align="left" alt="Selenium" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()CSS3 ( Framework : [<img  alt="Bootstrap" width="26px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />]()  [Bootsrap](https://getbootstrap.com/) )
+* [<img align="left" alt="Exppressjs" width="50px" src="https://user-images.githubusercontent.com/86334640/200281619-ba1c998c-c68e-4914-80c8-ba92db7910b2.png" />]()Express js
 
 
 
 <br/>
 
-* [<img align="left" alt="Selenium" width="50px" src="https://user-images.githubusercontent.com/86334640/127403785-c3e37211-3145-49c8-8f13-f17385b3ac8a.png" />]()Javascript ( Framework : [<img  alt="reactjs" width="26px" src="https://user-images.githubusercontent.com/86334640/127403040-4cc53854-3f2c-439c-a4fa-72e310ac9366.png" />]()  [ReactJS](https://fr.reactjs.org/) )
+* [<img align="left" alt="Reactjs" width="50px" src="https://user-images.githubusercontent.com/86334640/127403040-4cc53854-3f2c-439c-a4fa-72e310ac9366.png" />]()React js
+<br />
+
+* [<img align="left" alt="nodejs" width="50px" src="https://user-images.githubusercontent.com/86334640/200280769-74283ddb-78f5-40ea-bf62-8b74d2886441.png" />]()Node js
 <br />
 
 ## Contact Me :
